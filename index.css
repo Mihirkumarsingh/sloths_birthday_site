@@ -3,6 +3,11 @@ body {
   background-color: black;
   font-family: 'Staatliches', cursive;
 }
+#countdown{
+  position: absolute;
+  top:8%;
+  width:99%;
+}
 
 .countdownContainer {
   position: absolute;
@@ -13,7 +18,7 @@ body {
   color: white;
   padding: 10px;
   width: 100%;
-  font-size: 70px;
+  font-size: 30px;
 
   background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
   background-size: 1800% 1800%;
