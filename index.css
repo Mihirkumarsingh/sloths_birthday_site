@@ -4,9 +4,7 @@ body {
   font-family: 'Staatliches', cursive;
 }
 #countdown{
-  position: absolute;
-  top:8%;
-  width:99%;
+  position: relative;
 }
 
 .countdownContainer {
